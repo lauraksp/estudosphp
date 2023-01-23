@@ -1,7 +1,7 @@
-# Estudos PHP 
-## Repositorio criado para guardar meus conhecimentos com PHP
+# Estudos PHP.
+## Repositorio criado para guardar meus conhecimentos com PHP.
 
 <h1 align="center">
-    <a href="http://portalwebdesigner.com/wp-content/uploads/2016/08/programacao-php-codigo-logo.jpg">PHP</a>
+    <a href="https://pt-br.reactjs.org/](https://www.php.net/docs.php)">PHP</a>
 </h1>
 
